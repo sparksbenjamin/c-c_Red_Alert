@@ -5,6 +5,7 @@ There is a black screen issue running Command and Conquer Red Alert on Windows 1
 </ol>
 <h2>Directions</h2>
 Open Powershell and run the following command. 
+<br />
 <code>
   . { iwr -useb https://omnitruck.chef.io/install.ps1 } | iex; install
 </code>
