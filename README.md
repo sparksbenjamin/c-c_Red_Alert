@@ -3,3 +3,8 @@ There is a black screen issue running Command and Conquer Red Alert on Windows 1
 <ol>
   <li>Download ddwrapper.zip file</li>
 </ol>
+<h2>Directions</h2>
+Open Powershell and run the following command. 
+<code>
+  . { iwr -useb https://omnitruck.chef.io/install.ps1 } | iex; install
+</code>
